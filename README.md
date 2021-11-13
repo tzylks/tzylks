@@ -5,6 +5,10 @@ Full-stack web developer. Highly detailed and creative, focused on solutions tha
   
 ## Projects :art:
 
+**React-Three Product** [Live Site](https://threejsproject.herokuapp.com/)
+Sample product page using React-Three, Three.js, and Styled Components.
+Using Orbit Controls, a user can effectively traverse a 3D web application.
+
 **Plantasia** [Live Site](https://plantasia-store.herokuapp.com/)
 
 An application focused on mirroring features found on popular
