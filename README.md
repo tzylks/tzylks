@@ -5,23 +5,23 @@ Full-stack web developer. Highly detailed and creative, focused on solutions tha
   
 ## Projects :art:
 
-**React-Three Product** [Live Site](https://threejsproject.herokuapp.com/)
+**React-Three Product** 
 
 Sample product page using React-Three, Three.js, and Styled Components.
 Using Orbit Controls, a user can effectively traverse a 3D web application.
 
-**Plantasia** [Live Site](https://plantasia-store.herokuapp.com/)
+**Plantasia** 
 
 An application focused on mirroring features found on popular
 e-commerce websites
 Utilized Rails to implement a backend database using Postgres -- fully fleshing out a RESTful API
 Implemented user auth using bcrypt gem for password security Incorporated the use of Vonage API, as well as ActionMailer, to allow users to receive subscription emails and alert me via SMS when a subscription occurs
 
-**🗺️ Scrapeo** | [Live Site](https://scrapeo.herokuapp.com/)
+**🗺️ Scrapeo** 
 
 Webscraper using Nokogiri, Rails, React.js, and Framer-Motion.
 
-**🎵 Reverie Sound Review** [Demo](https://www.youtube.com/watch?v=M6jcBWbSi4M&ab_channel=JoeChristensen) | [Repo](https://github.com/ChristensenJoe/reverie-sound-review) | [Live Site](https://reverie-sound-review.netlify.app/)
+**🎵 Reverie Sound Review**
 
 News forum for classical music that allows for searching, posting, liking, and commenting. (React & JSONServer)
 
