@@ -1,6 +1,6 @@
 # :wave:  Hi! I'm Trevor! :wave: 
 
-Full-stack web developer. Highly detailed and creative, focused on solutions that enhance user experiences.
+Full-stack web developer. Current contributor to SEMOSS.
  
   
 ## Projects :art:
