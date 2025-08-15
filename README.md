@@ -1,41 +1,14 @@
 # :wave:  Hi! I'm Trevor! :wave: 
 
 Full-stack web developer. Current contributor to SEMOSS.
- 
-  
-## Projects :art:
-
-**React-Three Product** 
-
-Sample product page using React-Three, Three.js, and Styled Components.
-Using Orbit Controls, a user can effectively traverse a 3D web application.
-
-**Plantasia** 
-
-An application focused on mirroring features found on popular
-e-commerce websites
-Utilized Rails to implement a backend database using Postgres -- fully fleshing out a RESTful API
-Implemented user auth using bcrypt gem for password security Incorporated the use of Vonage API, as well as ActionMailer, to allow users to receive subscription emails and alert me via SMS when a subscription occurs
-
-**🗺️ Scrapeo** 
-
-Webscraper using Nokogiri, Rails, React.js, and Framer-Motion.
-
-**🎵 Reverie Sound Review**
-
-News forum for classical music that allows for searching, posting, liking, and commenting. (React & JSONServer)
-
   
 ## Contact Me :mailbox:
 
 <p>
   <a href="https://www.linkedin.com/in/trevor-zylks-3b476020b/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
-  <a href="https://dev.to/trevorzylks" target="blank"><img align="left" src="https://cdn.worldvectorlogo.com/logos/devto.svg"  height="30" width="30" /></a>
-
  
  <br />
  &emsp;
- 
  
 ## Skills :computer:
 
